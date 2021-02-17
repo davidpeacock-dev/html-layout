@@ -1,0 +1,27 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(194, 189, 189);
+}
+
+.header {
+    margin: 0 auto;
+    width: 100%;
+    height: 24vh;
+    background-color: rgb(80, 79, 79);
+}
+
+.main-content {
+    margin: 0 auto;
+    width: 66%;
+    height: 64vh;
+    background-color: rgb(240, 232, 232);
+}
+
+.footer {
+    margin: 0 auto;
+    width: 66%;
+    height: 12vh;
+    background-color: rgb(2, 2, 2);
+}
